@@ -12,5 +12,6 @@ Just your local snek... (and your friendly neighborhood pythonista). Been coding
 ## Some python modules I'm good at:
 - discord.py (Most proficient)
 - pygame (Not so proficient kek)
+- Django and Flask (??? stop lying)
 - built in modules lel
 
