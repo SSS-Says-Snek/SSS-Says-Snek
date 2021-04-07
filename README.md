@@ -16,6 +16,6 @@ Just your local snek... (and your friendly neighborhood pythonista). Been coding
 - built in modules lel
 
 ## Projects I've been working on:
-- [Community Bot](https://github.com/SSS-Says-Snek/community_bot): This is for my server (which as 27 members lel). Biggest project by far, with over 3k lines of code
+- [Community Bot](https://github.com/SSS-Says-Snek/community_bot): This is for my server (which has 27 members lel). Biggest project by far, with over 3k lines of code
 - [PygameCommunityBot](https://github.com/SSS-Says-Snek/PygameCommunityBot): I made some PRs for the Pygame Community Bot :D
-- Name Goes Here Lol: Literally the name right now, no repo ye
+- Name Goes Here Lol: Literally the name right now, no repo yet
