@@ -19,4 +19,5 @@ Just your local snek... (and your friendly neighborhood pythonista). Been coding
 ## Projects I've been working on:
 - [Community Bot](https://github.com/SSS-Says-Snek/community_bot): This is for my server (which has 27 members lel). Biggest project by far, with over 3k lines of code
 - [PygameCommunityBot](https://github.com/SSS-Says-Snek/PygameCommunityBot): I made some PRs for the Pygame Community Bot :D
-- Name Goes Here Lol: Literally the name right now, no repo yet (hint: it's a game)
+- [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol): Literally the name right now, though the unofficial name is Snake+
+- [Kithscord](https://github.com/SSS-Says-Snek/Kithscord): Discord bot for the Official Kithare Server lel
