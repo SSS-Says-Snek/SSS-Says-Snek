@@ -10,7 +10,7 @@ Just your local snek... (and your friendly neighborhood pythonista). Been coding
 
 ## Some Python modules I'm good at:
 - Discord.py (Most proficient)
-- Pygame (Not so proficient kek)
+- Pygame (Kinda proficient kek)
 - Django and Flask (??? stop lying)
 - Requests (MMM kinda proficient?)
 - built in modules lel
