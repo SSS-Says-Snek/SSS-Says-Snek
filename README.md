@@ -22,3 +22,7 @@ Actually started programming in late 2015/early 2016, but really dude, do you co
 - [PygameCommunityBot](https://github.com/SSS-Says-Snek/PygameCommunityBot): I made some PRs for the Pygame Community Bot :D
 - [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol): Literally the name right now, though the unofficial name is Snake+
 - [Kithscord](https://github.com/SSS-Says-Snek/Kithscord): Discord bot for the Official Kithare Server lel
+
+## Other stuff
+- [I have a website lol](https://sss-says-snek.github.io). Well, **technically**, it's a website.
+- I use [YouTube](https://www.youtube.com/channel/UCy0lVIEyazL73R-8NECWMfw), **[More links coming soon kek]**
