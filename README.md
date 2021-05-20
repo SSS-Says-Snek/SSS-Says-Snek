@@ -1,5 +1,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SSS-Says-Snek&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SSS-Says-Snek&hide=css&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SSS-Says-Snek&show_icons=true&hide=css&theme=merko)
 
 Just your local snek... (and your friendly neighborhood pythonista). Been coding in python since late 2017 :D
 
