@@ -25,4 +25,4 @@ Actually started programming in late 2015/early 2016, but really dude, do you co
 
 ## Other stuff
 - [I have a website lol](https://sss-says-snek.github.io). Well, **technically**, it's a website.
-- I use [YouTube](https://www.youtube.com/channel/UCy0lVIEyazL73R-8NECWMfw), **[More links coming soon kek (maybe)]**
+- I use [YouTube](https://www.youtube.com/channel/UCy0lVIEyazL73R-8NECWMfw), Discord (SSS_Says_Snek#0194), **[More links coming soon kek (maybe)]**
