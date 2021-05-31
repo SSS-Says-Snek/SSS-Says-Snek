@@ -15,6 +15,7 @@ Actually started programming in late 2015/early 2016, but really dude, do you co
 - Pygame (Kinda proficient kek)
 - Django and Flask (??? stop lying)
 - Requests (MMM kinda proficient?)
+- TensorFlow and PyTorch (Ehhhhh you're stretching it, snekkkkk)
 - built in modules lel
 
 ## Projects I've been working on:
