@@ -10,9 +10,10 @@ Actually started programming in late 2015/early 2016, but really dude, do you co
 - SQL (Specifically MySQL)
 - HTML (Not really lol)
 
-## Some Python modules I'm good at:
+## Some Python modules I'm "good" at:
 - Discord.py (Most proficient)
 - Pygame (Kinda proficient kek)
+- PyQt5 (I guess...?)
 - Django and Flask (??? stop lying)
 - Requests (MMM kinda proficient?)
 - TensorFlow and PyTorch (Ehhhhh you're stretching it, snekkkkk)
@@ -23,6 +24,7 @@ Actually started programming in late 2015/early 2016, but really dude, do you co
 - [PygameCommunityBot](https://github.com/SSS-Says-Snek/PygameCommunityBot): I made some PRs for the Pygame Community Bot :D
 - [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol): Literally the name right now, though the unofficial name is Snake+
 - [Kithscord](https://github.com/SSS-Says-Snek/Kithscord): Discord bot for the Official Kithare Server lel
+- [Log Browser](https://github.com/SSS-Says-Snek/log-browser): A log browser that browses through my entries kek
 
 ## Other stuff
 - [I have a website lol](https://sss-says-snek.github.io). Well, **technically**, it's a website.
