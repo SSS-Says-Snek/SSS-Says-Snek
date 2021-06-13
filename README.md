@@ -34,5 +34,6 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - Click [Here](https://sss-says-snek.github.io/secret) to gain the ultimate secret info!
 - I live in Alabama, USA, Everywhere ~~At the End of Time~~
 - Nicknames include: sssSéSné, snek, SSS
+- E
 
 ###### Goodbye, and have an okay day!
