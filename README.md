@@ -7,7 +7,7 @@ Actually started programming in late 2015/early 2016, but really dude, do you co
 
 Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find me chilling around in [the Pygame Discord Server](https://discord.gg/ZuB2RySPRJ) or playing Minecraft and Guardian Tales
 
-## Things I'm proficient at:
+## "Languages" I'm proficient at:
 - Python (Most proficient)
 - SQL (Specifically MySQL)
 - HTML (Not really lol)
