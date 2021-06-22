@@ -11,6 +11,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - Python (Most proficient)
 - SQL (Specifically MySQL)
 - HTML (Not really lol)
+- C++ (Barely can make a calculator app, so it probably has no right to be on this list
 
 ## Some Python modules I'm "good" at:
 - Discord.py (Most proficient)
