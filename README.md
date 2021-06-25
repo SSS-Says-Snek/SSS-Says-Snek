@@ -37,4 +37,9 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - Nicknames include: sssSéSné, snek, SSS
 - E
 
+## Stats
+![YT Badge](https://img.shields.io/youtube/channel/subscribers/UCy0lVIEyazL73R-8NECWMfw?style=social)
+![GH Stars](https://img.shields.io/github/stars/SSS-Says-Snek?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/I_Am_Coding_Master?style=social)
+
 ###### Goodbye, and have an okay day!
