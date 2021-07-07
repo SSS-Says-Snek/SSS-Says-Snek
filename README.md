@@ -11,11 +11,13 @@ Actually started programming in late 2015/early 2016, but really dude, do you co
 
 Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find me chilling around in [the Pygame Discord Server](https://discord.gg/ZuB2RySPRJ) or playing Minecraft and Guardian Tales
 
-## "Languages" I'm proficient at:
+## Things I'm proficient at:
 - Python (Most proficient)
 - SQL (Specifically MySQL)
-- HTML (Not really lol)
+- HTML (Kind of... I guess???)
 - C++ (Barely can make a calculator app, so it probably has no right to be on this list)
+- Networking (Ehh, I guess I'm *okay* at it... did some SFTP, FTP, sockets, and port forwarding)
+- Math (I'd say I'm proficient at math \[currently at the level of matrices and trig\])
 
 ## Some Python modules I'm "good" at:
 - Discord.py (Most proficient)
