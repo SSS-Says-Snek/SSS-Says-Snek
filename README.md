@@ -20,7 +20,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - **Math** (I'd say I'm proficient at math, currently at the level of matrices and trig)
 - **Piano** (Playing for... maybe 4.5-5 years now)
 - Trombone (Started 1 year ago)
-- **Chinese** (I am literally Chinese american)
+- **Chinese** (I am literally Chinese American)
 
 ## Some Python modules I'm "good" at:
 - **Discord.py** (Most proficient)
