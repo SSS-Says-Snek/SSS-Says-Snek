@@ -12,24 +12,24 @@ Actually started programming in late 2015/early 2016, but really dude, do you co
 Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find me chilling around in [the Pygame Discord Server](https://discord.gg/ZuB2RySPRJ) or playing Minecraft and Guardian Tales
 
 ## Things I'm proficient at:
-- Python (Most proficient)
-- SQL (Specifically MySQL)
-- HTML (Kind of... I guess???)
+- **Python** (Most proficient)
+- **SQL** (Specifically MySQL)
+- **HTML** (Kind of... I guess???)
 - C++ (Barely can make a calculator app, so it probably has no right to be on this list)
 - Networking (Ehh, I guess I'm *okay* at it... did some SFTP, FTP, sockets, and port forwarding)
-- Math (I'd say I'm proficient at math, currently at the level of matrices and trig)
-- Piano (Playing for... maybe 4.5-5 years now)
+- **Math** (I'd say I'm proficient at math, currently at the level of matrices and trig)
+- **Piano** (Playing for... maybe 4.5-5 years now)
 - Trombone (Started 1 year ago)
-- Chinese (I am literally Chinese american)
+- **Chinese** (I am literally Chinese american)
 
 ## Some Python modules I'm "good" at:
-- Discord.py (Most proficient)
-- Pygame (Kinda proficient kek)
+- **Discord.py** (Most proficient)
+- **Pygame** (Kinda proficient kek)
 - PyQt5 (I guess...?)
 - Django and Flask (??? stop lying)
 - Requests (MMM kinda proficient?)
 - TensorFlow and PyTorch (Ehhhhh you're stretching it, snekkkkk)
-- built in modules lel
+- **built in modules lel**
 
 ## Projects I've been working on:
 - [Community Bot](https://github.com/SSS-Says-Snek/community_bot): This is for my server (which has 27 members lel). Biggest project by far, with over 3k lines of code
