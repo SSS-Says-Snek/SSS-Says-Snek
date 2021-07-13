@@ -34,7 +34,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 ## Projects I've been working on:
 - [Community Bot](https://github.com/SSS-Says-Snek/community_bot): This is for my server (which has 27 members lel). Biggest project by far, with over 3k lines of code
 - [PygameCommunityBot](https://github.com/SSS-Says-Snek/PygameCommunityBot): I made some PRs for the Pygame Community Bot :D
-- [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol): Literally the name right now, though the unofficial name is Snake+
+- [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol) ***(MAIN)***: Literally the name right now, though the unofficial name is Snake+
 - [Kithscord](https://github.com/SSS-Says-Snek/Kithscord): Discord bot for the Official Kithare Server lel
 - [Log Browser](https://github.com/SSS-Says-Snek/log-browser): A log browser that browses through my entries kek
 
