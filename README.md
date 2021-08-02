@@ -41,6 +41,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 
 ## Other stuff
 - [I have a website lol](https://sss-says-snek.github.io). Well, **technically**, it's a website.
+- Follow me on [itch.io](https://sss-says-snek.itch.io)!
 - I use [YouTube](https://www.youtube.com/channel/UCy0lVIEyazL73R-8NECWMfw), Discord (SSS_Says_Snek#0194), and **[More links coming soon kek (maybe)]**
 - Click [Here](https://sss-says-snek.github.io/secret) to gain the ultimate secret info!
 - I live in Alabama, USA, Everywhere ~~At the End of Time~~
