@@ -39,7 +39,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 ## Some Python modules I'm "good" at:
 - **Discord.py** (Most proficient)
 - **Pygame** (Kinda proficient kek)
-- PyQt5 (I guess...?)
+- PyQt5
 - Django and Flask (??? stop lying)
 - Requests (MMM kinda proficient?)
 - TensorFlow and PyTorch (Ehhhhh you're stretching it, snekkkkk)
