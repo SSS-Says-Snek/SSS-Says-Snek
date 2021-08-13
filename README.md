@@ -33,7 +33,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - Networking (Ehh, I guess I'm *okay* at it... did some SFTP, FTP, sockets, and port forwarding)
 - **Math** (I'd say I'm proficient at math, currently at the level of matrices and trig)
 - **Piano** (Playing for... maybe 4.5-5 years now)
-- Trombone (Started 1 year ago)
+- Trombone (Started 1.5 years ago)
 - **Chinese** (I am literally Chinese American)
 
 ## Some Python modules I'm "good" at:
@@ -50,6 +50,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - [PygameCommunityBot](https://github.com/SSS-Says-Snek/PygameCommunityBot): I made some PRs for the Pygame Community Bot :D
 - [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol) ***(MAIN)***: Literally the name right now, though the unofficial name is Snake+
 - [ParaPac](https://github.com/AvaxarXapaxa/ParaPac) ***(SIDE)***: A multdimensional Pac-Man spinoff, with a few twists. Made in one week for the [Pygame Community Summer Team Jam](https://itch.io/jam/pygame-community-summer-team-jam)
+- [Roadsim](https://github.com/SSS-Says-Snek/roadsim) ***(SIDE)***: A road and traffic network simulator that utilizes specific algorithms like A*, Breadth First, and more
 - [Kithscord](https://github.com/SSS-Says-Snek/Kithscord): Discord bot for the Official Kithare Server lel
 - [Log Browser](https://github.com/SSS-Says-Snek/log-browser): A log browser that browses through my entries kek
 
