@@ -5,7 +5,7 @@
 ![GH Stars](https://img.shields.io/github/stars/SSS-Says-Snek?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 ![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/I_Am_Coding_Master?style=social)
 
-Just your local snek... (and your friendly neighborhood pythonista). Been coding in python since late 2017 :D
+Just your nice, local snek... (and your friendly neighborhood pythonista). Been coding in Python since late 2017 :D
 
 Actually started programming in late 2015/early 2016, but really dude, do you count Scratch as "programming"?
 
@@ -43,7 +43,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - Django and Flask (??? stop lying)
 - Requests (MMM kinda proficient?)
 - TensorFlow and PyTorch (Ehhhhh you're stretching it, snekkkkk)
-- **built in modules lel**
+- **built in modules lel** (For some reason I have knowledge to half of all the builtin modules, don't ask me how or why)
 
 ## Projects I've been working on:
 - [Community Bot](https://github.com/SSS-Says-Snek/community_bot): This is for my server (which has 27 members lel). Biggest project by far, with over 3k lines of code
