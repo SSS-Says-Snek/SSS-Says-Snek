@@ -40,6 +40,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - **Discord.py** (Most proficient)
 - **Pygame** (Kinda proficient kek)
 - PyQt5
+- Sockets (My protocol design sux tho)
 - Django and Flask (??? stop lying)
 - Requests (MMM kinda proficient?)
 - TensorFlow and PyTorch (Ehhhhh you're stretching it, snekkkkk)
