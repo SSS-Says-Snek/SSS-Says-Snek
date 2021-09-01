@@ -64,7 +64,12 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - Nicknames include: sssSéSné, snek, SSS
 
 ## Stats
-<img src="https://wakatime.com/share/@c74e8b33-36b7-4bd6-972d-3827b933c87b/04b04314-36cf-47fd-abe8-d1c51a8aa336.svg" width=450>
-<img src="https://wakatime.com/share/@SSS_Says_Snek/f7d83e4b-5caf-4228-826e-817f1ce40999.svg" width=450>
+<div class="row">
+  <div class="column">
+    <img src="https://wakatime.com/share/@c74e8b33-36b7-4bd6-972d-3827b933c87b/04b04314-36cf-47fd-abe8-d1c51a8aa336.svg" width=450>
+  </div>
+  <div class="column">
+    <img src="https://wakatime.com/share/@SSS_Says_Snek/f7d83e4b-5caf-4228-826e-817f1ce40999.svg" width=450>
+  </div>
 
 ###### Goodbye, and have an okay day!
