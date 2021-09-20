@@ -32,8 +32,8 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - C++ (Barely can make a calculator app, so it probably has no right to be on this list)
 - Networking (Ehh, I guess I'm *okay* at it... did some SFTP, FTP, sockets, and port forwarding)
 - **Math** (I'd say I'm proficient at math, currently at the level of matrices and trig)
-- **Piano** (Playing for... maybe 4.5-5 years now)
-- Trombone (Started 1.5 years ago)
+- **Piano** (Playing for... maybe 5 years now)
+- Trombone (Started 2 years ago)
 - **Chinese** (I am literally Chinese American)
 
 ## Some Python modules I'm "good" at:
