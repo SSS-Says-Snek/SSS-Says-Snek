@@ -68,8 +68,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
   <div class="column">
     <img src="https://wakatime.com/share/@c74e8b33-36b7-4bd6-972d-3827b933c87b/04b04314-36cf-47fd-abe8-d1c51a8aa336.svg" width=350>
   </div>
-  <div class="column">
-    <img src="https://metrics.lecoq.io/SSS-Says-Snek?template=classic&achievements=1&notable=1&isocalendar=1&lines=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=America%2FChicago">
-  </div>
 </div>
+
+![Metrics](https://metrics.lecoq.io/SSS-Says-Snek?template=classic&achievements=1&notable=1&isocalendar=1&lines=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=America%2FChicago)
 ###### Goodbye, and have an okay day!
