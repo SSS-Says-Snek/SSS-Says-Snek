@@ -70,4 +70,5 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
   </div>
 </div>
 
+![Metrics](https://metrics.lecoq.io/SSS-Says-Snek?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FChicago)
 ###### Goodbye, and have an okay day!
