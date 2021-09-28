@@ -68,7 +68,8 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
   <div class="column">
     <img src="https://wakatime.com/share/@c74e8b33-36b7-4bd6-972d-3827b933c87b/04b04314-36cf-47fd-abe8-d1c51a8aa336.svg" width=350>
   </div>
+  <div class="column">
+    <img src="https://metrics.lecoq.io/SSS-Says-Snek?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FChicago">
+  </div>
 </div>
-
-![Metrics](https://metrics.lecoq.io/SSS-Says-Snek?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FChicago)
 ###### Goodbye, and have an okay day!
