@@ -9,7 +9,7 @@ Just your nice, local snek... (and your friendly neighborhood pythonista). Been 
 
 Actually started programming in late 2015/early 2016, but really dude, do you count Scratch as "programming"?
 
-Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find me chilling around in [the Pygame Discord Server](https://discord.gg/ZuB2RySPRJ) or playing Minecraft or Guardian Tales
+Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find me chilling around in [the Pygame Discord Server](https://discord.gg/ZuB2RySPRJ) or playing Minecraft or Guardian Tales.
 
 
 ## Toolbelt
@@ -40,7 +40,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - **Discord.py** (Most proficient)
 - **Pygame** (Kinda proficient kek)
 - PyQt5
-- **Sockets** (My protocol design sux tho)
+- **Sockets** (Proficient)
 - Django and Flask (??? stop lying)
 - Requests (MMM kinda proficient?)
 - TensorFlow and PyTorch (Ehhhhh you're stretching it, snekkkkk)
