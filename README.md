@@ -48,9 +48,9 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - **built in modules lel** (For some reason I have knowledge to half of all the builtin modules, don't ask me how or why)
 
 ## Projects I've been working on:
-- [Community Bot](https://github.com/SSS-Says-Snek/community_bot): This is for my server (which has 27 members lel). Biggest project by far, with over 3k lines of code
+- [Community Bot](https://github.com/SSS-Says-Snek/community_bot): This is for my server (which has 27 members lel).
 - [PygameCommunityBot](https://github.com/SSS-Says-Snek/PygameCommunityBot): I made some PRs for the Pygame Community Bot :D
-- [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol) ***(SIDE)***: Literally the name right now, though the unofficial name is Snake+
+- [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol) ***(SIDE)***: Literally the name right now, though the unofficial name is Snake+. Biggest project by far, with over 4k lines of code
 - [ParaPac](https://github.com/AvaxarXapaxa/ParaPac) ***(SIDE)***: A multdimensional Pac-Man spinoff, with a few twists. Made in one week for the [Pygame Community Summer Team Jam](https://itch.io/jam/pygame-community-summer-team-jam)
 - [Roadsim](https://github.com/SSS-Says-Snek/roadsim) ***(SIDE)***: A road and traffic network simulator that utilizes specific algorithms like A*, Breadth First, and more
 - [Kithscord](https://github.com/SSS-Says-Snek/Kithscord): Discord bot for the Official Kithare Server lel
