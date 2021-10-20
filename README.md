@@ -5,6 +5,8 @@
 ![GH Stars](https://img.shields.io/github/stars/SSS-Says-Snek?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 ![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/I_Am_Coding_Master?style=social)
 
+[![wakatime](https://wakatime.com/badge/user/c74e8b33-36b7-4bd6-972d-3827b933c87b.svg)](https://wakatime.com/@c74e8b33-36b7-4bd6-972d-3827b933c87b)
+
 Just your nice, local snek... (and your friendly neighborhood pythonista). Been coding in Python since late 2017 :D
 
 Actually started programming in late 2015/early 2016, but really dude, do you count Scratch as "programming"?
