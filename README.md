@@ -45,7 +45,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - Django and Flask (??? stop lying)
 - Requests (MMM kinda proficient?)
 - TensorFlow and PyTorch (Ehhhhh you're stretching it, snekkkkk)
-- OpenCV (bruh)
+- OpenCV
 - **built in modules lel** (For some reason I have knowledge to half of all the builtin modules, don't ask me how or why)
 
 ## Projects I've been working on:
