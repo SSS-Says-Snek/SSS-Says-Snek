@@ -44,7 +44,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - **Sockets** (Proficient)
 - Django and Flask (??? stop lying)
 - Requests (MMM kinda proficient?)
-- TensorFlow and PyTorch (Ehhhhh you're stretching it, snekkkkk)
+- TensorFlow and PyTorch
 - OpenCV
 - **built in modules lel** (For some reason I have knowledge to half of all the builtin modules, don't ask me how or why)
 
