@@ -20,6 +20,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 <img src="https://raw.githubusercontent.com/SSS-Says-Snek/SSS-Says-Snek.github.io/master/assets/pygamelogo.png" width=40>
 <img src="https://raw.githubusercontent.com/SSS-Says-Snek/SSS-Says-Snek.github.io/master/assets/html5logo.png" width=40>
 <img src="https://raw.githubusercontent.com/SSS-Says-Snek/SSS-Says-Snek.github.io/master/assets/tensorflowlogo.png" width=40>
+<img src="https://raw.githubusercontent.com/SSS-Says-Snek/SSS-Says-Snek.github.io/master/assets/clogo.png" width=40>
 <img src="https://raw.githubusercontent.com/SSS-Says-Snek/SSS-Says-Snek.github.io/master/assets/cpplogo.png" width=40>
 <img src="https://raw.githubusercontent.com/SSS-Says-Snek/SSS-Says-Snek.github.io/master/assets/nplogo.png" width=50>
 <img src="https://raw.githubusercontent.com/SSS-Says-Snek/SSS-Says-Snek.github.io/master/assets/qtlogo.png" width=50>
