@@ -33,7 +33,8 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - SQL (Specifically MySQL)
 - **HTML** (Kind of... I guess???)
 - C (Maybe...?)
-- **Networking** (Ehh, I guess I'm *okay* at it... did some SFTP, FTP, sockets, and port forwarding)
+- **Networking**
+- **Game Development**
 - **Math** (I'd say I'm proficient at math, currently at the level of matrices and trig)
 - **Piano** (Playing for... maybe 5 years now)
 - Trombone (Started 2 years ago)
