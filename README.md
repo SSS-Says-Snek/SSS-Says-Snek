@@ -58,7 +58,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - [ParaPac](https://github.com/Nekkl/ParaPac) ***(SIDE)***: A multdimensional Pac-Man spinoff, with a few twists. Made in one week for the [Pygame Community Summer Team Jam](https://itch.io/jam/pygame-community-summer-team-jam)
 - [Roadsim](https://github.com/SSS-Says-Snek/roadsim) ***(SIDE)***: A road and traffic network simulator that utilizes specific algorithms like A*, Breadth First, and more
 - [Kithscord](https://github.com/SSS-Says-Snek/Kithscord): Discord bot for the Official Kithare Server lel
-- [hisock](https://github.com/SSS-Says-Snek/hisock) ***(MAIN)***: A higher-level extension of the socket module, with simpler and more efficient usages
+- [hisock](https://github.com/SSS-Says-Snek/hisock) ***(MAIN)***: A higher-level extension of the socket module, with simpler and more efficient usages.
 
 ## Other stuff
 - [I have a website lol](https://sss-says-snek.github.io). It's a bad one for sure, but hey, it counts.
