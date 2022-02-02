@@ -61,7 +61,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - [hisock](https://github.com/SSS-Says-Snek/hisock) ***(MAIN)***: A higher-level extension of the socket module, with simpler and more efficient usages.
 
 ## Other stuff
-- [I have a website lol](https://sss-says-snek.github.io). It's a bad one for sure, but hey, it counts.
+- [I have a website lol](https://sss-says-snek.github.io). It's a bad one, but hey, it counts.
 - Follow me on [itch.io](https://sss-says-snek.itch.io)!
 - I use [YouTube](https://www.youtube.com/channel/UCy0lVIEyazL73R-8NECWMfw) and Discord (SSS_Says_Snek#0194)
 - Click [Here](https://sss-says-snek.github.io/secret) to gain the ultimate secret info!
