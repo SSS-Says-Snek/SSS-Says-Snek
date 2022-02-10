@@ -32,7 +32,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - **Python** (Most proficient)
 - SQL (Specifically MySQL)
 - **HTML** (Kind of... I guess???)
-- C (Maybe...?)
+- C (Maybe??)
 - **Networking**
 - **Game Development**
 - **Math** (I'd say I'm proficient at math, currently at the level of matrices and trig)
