@@ -37,10 +37,11 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - **Game Development**
 - **Math** (I'd say I'm proficient at math, currently at the level of matrices and trig)
 - **Piano** (Playing for... maybe 5 years now)
+- Linux Terminal
 - Trombone (Started 2 years ago)
 - **Chinese** (I am literally Chinese American)
 
-## Some Python modules I'm "good" at:
+## Some Python modules I'm good at:
 - **Discord.py** (Most proficient)
 - **Pygame** (Proficient)
 - PyQt5
