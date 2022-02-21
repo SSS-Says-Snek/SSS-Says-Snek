@@ -26,6 +26,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 <img src="https://raw.githubusercontent.com/SSS-Says-Snek/SSS-Says-Snek.github.io/master/assets/qtlogo.png" width=50>
 <img src="https://raw.githubusercontent.com/SSS-Says-Snek/SSS-Says-Snek.github.io/master/assets/curllogo.png" width=100>
 <img src="https://raw.githubusercontent.com/SSS-Says-Snek/SSS-Says-Snek.github.io/master/assets/linuxlogo.png" width=40>
+<img src="https://raw.githubusercontent.com/SSS-Says-Snek/SSS-Says-Snek.github.io/master/assets/gitlogo.png" width=40>
 
 
 
