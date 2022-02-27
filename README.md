@@ -37,7 +37,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - C (Maybe??)
 - **Networking**
 - **Game Development**
-- **Math** (I'd say I'm proficient at math, currently at the level of matrices and trig)
+- **Math** (I'd say I'm proficient at math, currently at the level of precal)
 - **Piano** (Playing for... maybe 5 years now)
 - Linux Terminal
 - Trombone (Started 2.5 years ago)
