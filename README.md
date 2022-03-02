@@ -40,7 +40,7 @@ Loves eating. Also likes to eat Milky Ways (not the galaxy 👀). You can find m
 - **Math** (I'd say I'm proficient at math, currently at the level of precal)
 - **Piano** (Playing for... maybe 5 years now)
 - Linux Terminal
-- Trombone (Started 2.5 years ago)
+- **Trombone** (Started 2.5 years ago)
 - **Chinese** (I am literally Chinese American)
 
 ## Some Python modules I'm good at:
