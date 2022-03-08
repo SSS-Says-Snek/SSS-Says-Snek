@@ -7,7 +7,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/c74e8b33-36b7-4bd6-972d-3827b933c87b.svg)](https://wakatime.com/@c74e8b33-36b7-4bd6-972d-3827b933c87b)
 
-Just your nice, local snek, and your friendly neighborhood pythonista. Been programming in Python since late 2017 :D
+Just your nice, local snek, and your friendly neighborhood Pythonista. Been programming in Python since late 2017 :D
 
 Actually started programming in late 2015/early 2016, but really dude, do you count Scratch as "programming"?
 
