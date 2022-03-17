@@ -46,6 +46,7 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 ## Some Python modules I'm good at:
 - **Discord.py** (Most proficient)
 - **Pygame** (Proficient)
+- **Socket** (Proficient)
 - PyQt5
 - **Sockets** (Proficient)
 - Django and Flask (??? stop lying)
