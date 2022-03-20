@@ -70,7 +70,7 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 - I use [YouTube](https://www.youtube.com/channel/UCy0lVIEyazL73R-8NECWMfw) and Discord (SSS_Says_Snek#0194)
 - Click [Here](https://sss-says-snek.github.io/secret) to gain the ultimate secret info!
 - I live in Alabama, USA, Everywhere ~~At the End of Time~~
-- Nicknames include: sssSéSné, snek, SSS, sne, sneg
+- Nicknames include: snek, SSS, sne, sneg
 - Learning C and C++ right now!
 
 ## Stats
