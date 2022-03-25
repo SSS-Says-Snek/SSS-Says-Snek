@@ -9,7 +9,7 @@
 
 Just your nice, local snek, and your friendly neighborhood Pythonista. Been programming in Python since late 2017 :D
 
-Actually started programming in late 2015/early 2016, but really dude, do you count Scratch as "programming"?
+I actually started programming in late 2015/early 2016, but really dude, do you count Scratch as "programming"?
 
 You can find me either chilling around in [the Pygame Discord](https://discord.gg/ZuB2RySPRJ), programming, or playing Minecraft, BTD6, or Guardian Tales.
 
@@ -75,5 +75,5 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 
 ## Stats
 
-![Metrics](https://metrics.lecoq.io/SSS-Says-Snek?template=classic&achievements=1&notable=1&isocalendar=1&lines=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=America%2FChicago)
+![GitHub Stats](https://metrics.lecoq.io/SSS-Says-Snek?template=classic&achievements=1&notable=1&isocalendar=1&lines=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=America%2FChicago)
 ###### Goodbye, and have an okay day!
