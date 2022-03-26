@@ -53,7 +53,7 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 - Requests (MMM kinda proficient?)
 - TensorFlow and PyTorch
 - OpenCV
-- **built in modules** (For some reason I have knowledge to half of all the builtin modules, don't ask me how or why)
+- **built-in modules** (For some reason I have knowledge to half of all the builtin modules, don't ask me how or why)
 
 ## Projects I've been working on:
 - [hisock](https://github.com/SSS-Says-Snek/hisock) ***(MAIN)***: A higher-level extension of the socket module, with simpler and more efficient usages.
