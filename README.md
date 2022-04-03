@@ -11,7 +11,7 @@ Just your nice, local snek, and your friendly neighborhood Pythonista. Been prog
 
 I actually started programming in late 2015/early 2016, but really dude, do you count Scratch as "programming"?
 
-You can find me either chilling around in [the PyGame Discord](https://discord.gg/ZuB2RySPRJ), programming, or playing Minecraft, BTD6, or Guardian Tales.
+You can find me either chilling around in [the PyGame Discord](https://discord.gg/ZuB2RySPRJ), programming, or playing games, such as Minecraft, BTD6, or Guardian Tales.
 
 
 ## Toolbelt
