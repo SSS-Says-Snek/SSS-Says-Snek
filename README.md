@@ -41,7 +41,7 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 - **Piano** (Playing for... maybe 5 years now)
 - Linux Terminal & Bash
 - **Trombone** (Started 2.5 years ago)
-- **Chinese** (I am literally Chinese American)
+- **Chinese** (I'm literally Chinese American)
 
 ## Some Python modules I'm good at:
 - **Discord.py** (Most proficient)
