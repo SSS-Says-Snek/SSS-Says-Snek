@@ -32,7 +32,7 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 
 ## Things I'm proficient at:
 - **Python** (Most proficient)
-- C/C++ (Maybe?)
+- **C**/C++
 - SQL (Specifically MySQL)
 - **HTML** (Kind of... I guess???)
 - **Networking**
