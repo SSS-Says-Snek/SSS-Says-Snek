@@ -62,7 +62,6 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 - [PygameCommunityBot](https://github.com/SSS-Says-Snek/PygameCommunityBot): I made some PRs for the Pygame Community Bot :D
 - [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol) ***(SIDE)***: Literally the name right now, though the unofficial name is Snake+. One of my bigger projects, with over 4k lines of code
 - [ParaPac](https://github.com/Nekkl/ParaPac) ***(SIDE)***: A multdimensional Pac-Man spinoff, with a few twists. Made in one week for the [Pygame Community Summer Team Jam](https://itch.io/jam/pygame-community-summer-team-jam)
-- [Roadsim](https://github.com/SSS-Says-Snek/roadsim): A road and traffic network simulator that utilizes specific algorithms like A*, Breadth First, and more
 - [Kithscord](https://github.com/SSS-Says-Snek/Kithscord): Discord bot for the Official Kithare Server lel
 
 ## Other stuff
