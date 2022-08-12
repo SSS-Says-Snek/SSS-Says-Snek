@@ -34,10 +34,10 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 - **Python** (Most proficient)
 - **C**/C++
 - SQL (Specifically MySQL)
-- **HTML** (Kind of... I guess???)
+- HTML/CSS
 - **Networking**
 - **Game Development**
-- **Math** (I'd say I'm proficient at math, currently at the level of precal)
+- **Math**
 - **Piano** (Playing for... maybe 5 years now)
 - Linux Terminal & Bash
 - **Trombone** (Started 2.5 years ago)
@@ -57,6 +57,7 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 
 ## Projects I've been working on:
 - [hisock](https://github.com/SSS-Says-Snek/hisock) ***(MAIN)***: A higher-level extension of the socket module, with simpler and more efficient usages.
+- [rpg-tile-game](https://github.com/SSS-Says-Snek/rpg-tile-game) ***(MAIN)***: An RPG tile game, idk
 - [Community Bot](https://github.com/SSS-Says-Snek/community_bot): This is for my server, which has 27 members.
 - [PygameCommunityBot](https://github.com/SSS-Says-Snek/PygameCommunityBot): I made some PRs for the Pygame Community Bot :D
 - [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol) ***(SIDE)***: Literally the name right now, though the unofficial name is Snake+. One of my bigger projects, with over 4k lines of code
