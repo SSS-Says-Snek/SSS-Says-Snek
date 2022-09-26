@@ -71,7 +71,7 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 - Click [here](https://sss-says-snek.github.io/secret) to gain the ultimate secret knowledge!
 - I live in Alabama, USA, Everywhere ~~At the End of Time~~
 - Nicknames include: snek, SSS, sne, sneg
-- Learning C and C++ right now!
+- Learning JS/TS and SvelteKit right now!
 
 ## Stats
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SSS_Says_Snek&layout=compact)
