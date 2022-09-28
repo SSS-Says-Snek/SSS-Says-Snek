@@ -9,7 +9,7 @@
 
 Just your nice, local snek, as well as your friendly neighborhood Pythonista. Been programming in Python since late 2017 :D
 
-I actually started programming in late 2015/early 2016, but really dude, do you count Scratch as "programming"?
+I actually started programming in late 2015/early 2016, but do you count Scratch as "programming"?
 
 You can find me either chilling around in [the Pygame Discord](https://discord.gg/ZuB2RySPRJ), programming, or playing games, such as Minecraft, BTD6, and Guardian Tales.
 
