@@ -76,5 +76,5 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 ## Stats
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SSS_Says_Snek&layout=compact&theme=merko)
 
-![GitHub Stats](https://metrics.lecoq.io/SSS-Says-Snek?template=classic&achievements=1&notable=1&isocalendar=1&lines=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=America%2FChicago)
+![GitHub Stats](https://raw.githubusercontent.com/SSS-Says-Snek/metrics-embed/main/github-metrics.svg)
 ###### Goodbye, and have an okay day!
