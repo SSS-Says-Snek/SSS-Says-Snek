@@ -9,9 +9,7 @@
 
 Just your nice, local snek, as well as your friendly neighborhood Pythonista. Been programming in Python since late 2017 :D
 
-I actually started programming in late 2015/early 2016, but do you count Scratch as "programming"?
-
-You can find me either chilling around in [the Pygame Discord](https://discord.gg/ZuB2RySPRJ), programming, or playing games, such as Minecraft, BTD6, and Guardian Tales.
+You can find me either chilling around in [the Pygame Discord](https://discord.gg/ZuB2RySPRJ), programming, or playing game.
 
 
 ## Toolbelt
@@ -34,33 +32,33 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 - **Python** (Most proficient)
 - **C**/C++
 - SQL (Specifically MySQL)
-- HTML/CSS
+- HTML/CSS/JS
 - **Networking**
 - **Game Development**
 - **Math**
-- **Piano** (Playing for... maybe 5 years now)
+- **Piano** (5 years)
 - Linux Terminal & Bash
-- **Trombone** (Started 2.5 years ago)
-- **Chinese** (I'm literally Chinese American)
+- **Trombone** (3 years)
+- **Chinese** (Chinese-American)
 
-## Some Python modules I'm good at:
-- **Discord.py** (Most proficient)
-- **Pygame** (Proficient)
+## Some Python modules that I have experience in:
+- **Pygame** (Most Proficient)
+- Discord.py (Proficient)
 - **Socket** (Proficient)
 - PyQt5
 - **Sockets** (Proficient)
-- Django and Flask (??? stop lying)
-- Requests (MMM kinda proficient?)
+- Django and Flask (Beginner)
+- Requests (Beginner)
 - TensorFlow and PyTorch
 - OpenCV
-- **built-in modules** (For some reason I have knowledge to half of all the builtin modules, don't ask me how or why)
+- **built-in modules** (I know a lot of them)
 
 ## Projects I've been working on:
 - [hisock](https://github.com/SSS-Says-Snek/hisock) ***(MAIN)***: A higher-level extension of the socket module, with simpler and more efficient usages.
 - [rpg-tile-game](https://github.com/SSS-Says-Snek/rpg-tile-game) ***(MAIN)***: An RPG tile game, idk
 - [Community Bot](https://github.com/SSS-Says-Snek/community_bot): This is for my server, which has 27 members.
 - [PygameCommunityBot](https://github.com/SSS-Says-Snek/PygameCommunityBot): I made some PRs for the Pygame Community Bot :D
-- [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol) ***(SIDE)***: Literally the name right now, though the unofficial name is Snake+. One of my bigger projects, with over 4k lines of code
+- [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol): Literally the name right now, though the unofficial name is Snake+. One of my bigger projects, with over 4k lines of code
 - [ParaPac](https://github.com/Nekkl/ParaPac) ***(SIDE)***: A multdimensional Pac-Man spinoff, with a few twists. Made in one week for the [Pygame Community Summer Team Jam](https://itch.io/jam/pygame-community-summer-team-jam)
 - [Kithscord](https://github.com/SSS-Says-Snek/Kithscord): Discord bot for the Official Kithare Server lel
 
