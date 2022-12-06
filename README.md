@@ -9,7 +9,7 @@
 
 Just your nice, local snek, as well as your friendly neighborhood Pythonista. Been programming in Python since late 2017 :D
 
-You can find me either chilling around in [the Pygame Discord](https://discord.gg/ZuB2RySPRJ), programming, or playing game.
+You can find me either chilling around in [the Pygame Discord](https://discord.gg/ZuB2RySPRJ), programming, or playing some games.
 
 
 ## Toolbelt
