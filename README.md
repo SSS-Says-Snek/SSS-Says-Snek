@@ -1,5 +1,9 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SSS-Says-Snek&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SSS-Says-Snek&show_icons=true&hide=css&theme=merko)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSS-Says-Snek&show_icons=true&theme=transparent&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSS-Says-Snek&show_icons=true&hide=css&theme=transparent&hide_border=true">
+</div>
+
+---
 
 ![YT Badge](https://img.shields.io/youtube/channel/views/UCy0lVIEyazL73R-8NECWMfw)
 ![GH Stars](https://img.shields.io/github/stars/SSS-Says-Snek?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER)
