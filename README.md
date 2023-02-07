@@ -28,51 +28,27 @@ You can find me either chilling around in [the Pygame Discord](https://discord.g
 
 
 
-## Things I'm proficient at:
+## Programming Knowledge
 - **Python** (Most proficient)
 - **C**/C++
-- SQL (Specifically MySQL)
-- HTML/CSS/JS
 - **Networking**
 - **Game Development**
 - **Math**
-- **Piano** (5 years)
+- **Web Development**
+- SQL (MYSQL)
+- HTML/CSS/JS
 - Linux Terminal & Bash
-- **Trombone** (3 years)
-- **Chinese** (Chinese-American)
 
-## Some Python modules that I have experience in:
+## Python 3rd-Party Library Knowledge
 - **Pygame** (Most Proficient)
-- Discord.py (Proficient)
 - **Socket** (Proficient)
+- Discord.py (Proficient)
 - PyQt5
-- **Sockets** (Proficient)
 - Django and Flask (Beginner)
 - Requests (Beginner)
 - TensorFlow and PyTorch
 - OpenCV
-- **built-in modules** (I know a lot of them)
-
-## Projects I've been working on:
-- [hisock](https://github.com/SSS-Says-Snek/hisock) ***(MAIN)***: A higher-level extension of the socket module, with simpler and more efficient usages.
-- [rpg-tile-game](https://github.com/SSS-Says-Snek/rpg-tile-game) ***(MAIN)***: An RPG tile game, idk
-- [Community Bot](https://github.com/SSS-Says-Snek/community_bot): This is for my server, which has 27 members.
-- [PygameCommunityBot](https://github.com/SSS-Says-Snek/PygameCommunityBot): I made some PRs for the Pygame Community Bot :D
-- [Name Goes Here Lol](https://github.com/SSS-Says-Snek/name_goes_here_lol): Literally the name right now, though the unofficial name is Snake+. One of my bigger projects, with over 4k lines of code
-- [ParaPac](https://github.com/Nekkl/ParaPac) ***(SIDE)***: A multdimensional Pac-Man spinoff, with a few twists. Made in one week for the [Pygame Community Summer Team Jam](https://itch.io/jam/pygame-community-summer-team-jam)
-- [Kithscord](https://github.com/SSS-Says-Snek/Kithscord): Discord bot for the Official Kithare Server lel
-
-## Other stuff
-- [I have a website lol](https://sss-says-snek.github.io). It's a bad one, but hey, it counts.
-- Follow me on [itch.io](https://sss-says-snek.itch.io)!
-- I use [YouTube](https://www.youtube.com/channel/UCy0lVIEyazL73R-8NECWMfw) and Discord (SSS_Says_Snek#0194)
-- Click [here](https://sss-says-snek.github.io/secret) to gain the ultimate secret knowledge!
-- I live in Alabama, USA, Everywhere ~~At the End of Time~~
-- Nicknames include: snek, SSS, sne, sneg
-- Learning JS/TS and SvelteKit right now!
 
 ## Stats
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SSS_Says_Snek&layout=compact&theme=merko)
-
 ![GitHub Stats](https://raw.githubusercontent.com/SSS-Says-Snek/metrics-embed/main/github-metrics.svg)
 ###### Goodbye, and have an okay day!
